@@ -1,6 +1,6 @@
 {
   "Modality": "MR",
-  "MagneticFieldStrength": 3,
+  "MagneticFieldStrength": 4,
   "ImagingFrequency": 123.212,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "TrioTim",
